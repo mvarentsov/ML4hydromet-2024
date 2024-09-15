@@ -4,12 +4,14 @@
 
 Данные доступны для скачивания по следующим ссылкам:
 
-- [Полная коллекция](https://ml4es.ru/links/DASIO-radiation-full-zip) (2.2GB в распакованном виде)
-- [Коллекция размером 50% от полной](https://ml4es.ru/links/DASIO-radiation-50perc-zip) (1.1GB в распакованном виде)
-- [Коллекция размером 25% от полной](https://ml4es.ru/links/DASIO-radiation-25perc-zip) (540MB в распакованном виде)
+- [Полная коллекция](https://ml4es.ru/links/DASIO-radiation-full-zip) (2.2GB в распакованном виде) md5sum: 782f5bba977ea813e8ae87fcb553a1f7
+- [Коллекция размером 50% от полной](https://ml4es.ru/links/DASIO-radiation-50perc-zip) (1.1GB в распакованном виде) md5sum: e7b2b952922dc29b2b237b449a7b251c
+- [Коллекция размером 25% от полной](https://ml4es.ru/links/DASIO-radiation-25perc-zip) (540MB в распакованном виде) md5sum: 26851ebcecb3826fb4a3aa4cdb71fd8c
 
-	[1] Krinitskiy, M.; Aleksandrova, M.; Verezemskaya, P.; Gulev, S.; Sinitsyn, A.; Kovaleva, N.; Gavrikov, A. *On the Generalization Ability of Data-Driven Models in the  Problem of Total Cloud Cover Retrieval*. Remote Sens. **2021**, *13*, 326.    https://doi.org/10.3390/rs13020326
-	[2] Krinitskiy, M.; Koshkina, V.; Borisov, M.; Anikin, N.; Gulev, S.; Artemeva, M. *Machine Learning Models for Approximating Downward Short-Wave Radiation Flux over the Ocean from All-Sky Optical Imagery Based on DASIO Dataset*. Remote Sens. 2023, 15, 1720. https://doi.org/10.3390/rs15071720
+  
+
+  [1] Krinitskiy, M.; Aleksandrova, M.; Verezemskaya, P.; Gulev, S.; Sinitsyn, A.; Kovaleva, N.; Gavrikov, A. *On the Generalization Ability of Data-Driven Models in the  Problem of Total Cloud Cover Retrieval*. Remote Sens. **2021**, *13*, 326.    https://doi.org/10.3390/rs13020326
+  [2] Krinitskiy, M.; Koshkina, V.; Borisov, M.; Anikin, N.; Gulev, S.; Artemeva, M. *Machine Learning Models for Approximating Downward Short-Wave Radiation Flux over the Ocean from All-Sky Optical Imagery Based on DASIO Dataset*. Remote Sens. 2023, 15, 1720. https://doi.org/10.3390/rs15071720
 
 Приходящая солнечная радиация - единственный (условно) стабильный и (условно) восполняемый источник энергии на планете Земля. Кроме того, солнечная радиация - практически единственный источник энергии, питающий всю динамику атмосферы и океана. Радиационный блок в моделях атмосферы - важнейшая часть. Для оценки приходящей солнечной радиации в моделировании геофизических систем в настоящий момент чаще всего применяются т.н.. параметризации - упрощенные схемы, аппроксимирующие процессы рассеяния, поглощения, переотражения, переизлучения солнечной радиации в атмосфере. Важнейшей переменной во всех параметризациях приходящей солнечной радиации является общий балл облачности, количество облачности различных типов, насыщенность облаков (водность) и прочие характеристики облачности.
 
@@ -34,7 +36,7 @@
 
 Одновременно со съемкой ведутся измерения потока приходящей коротковолновой (SW) и длинноволновой (LW) солнечной радиации.
 
-В (неполном) наборе данных DASIO, предоставленном на анализ, для каждой такой фотографии приведены следующие признаки:
+В (неполном) наборе данных DASIO, данные представлены в виде csv-файла, разделитель полей - запятая ",", десятичный разделитель - точка ".". Для каждой фотографии в файле отводится отдельная строка, в которой приведены следующие признаки:
 
 - `photo_name` - имя файла фотографии
 - `photo_datetime` - дата и время регистрации фотографии (UTC)
@@ -61,3 +63,4 @@
 - `lat` - широта (в десятичной записи) точки регистрации фотоснимка видимой полусферы небосвода
 - `lon` - долгота (в десятичной записи) точки регистрации фотоснимка видимой полусферы небосвода
 - `sun_altitude` - расчетная высота Солнца над горизонтом в градусах
+

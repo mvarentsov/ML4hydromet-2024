@@ -1,6 +1,6 @@
 # ML4hydromet-2024
 
-Курс "Машинное обучение в гидрометеорологии" для географического факультета МГУ имени М.В. Ломоносова.   
+Курс "Машинное обучение в гидрометеорологии" для магистров географического факультета МГУ имени М.В. Ломоносова.   
 
 Читают **Михаил Варенцов** ([ИСТИНА](https://istina.msu.ru/workers-beta/10689047/), [ResearchGate](https://www.researchgate.net/profile/Mikhail-Varentsov-2)) и **Михаил Криницкий** ([персональная страница](https://sail.ocean.ru/staff/mikhail-krinitskiy), [ResearchGate](https://www.researchgate.net/profile/Mikhail-Krinitskiy)).
 

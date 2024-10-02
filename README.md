@@ -10,7 +10,7 @@
 
 | Название | Дата | Тема | Материалы |
 | ----- | ---- | ----- | ------- |
-| Занятие №1 | 01.10.2024 | Введение |[Презентация (орг. вопросы, данные)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect01_MV.pdf) <br/>[Презентация (введение в МО)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect01_MK.pdf)|
+| Занятие №1 | 01.10.2024 | Введение |[Презентация (орг. вопросы, данные)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect01_MV.pdf) <br/>[Презентация (введение в МО)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect01_MK.pdf)<br />[Видеозапись](https://ml4es.ru/links/2024-10-01-ML4Hydromet-Lect01)|
 
 ## Практические работы
 Все работы следует оформлять в виде файлов Jupiter Notebook, включающих исходный код, результаты (графики, таблицы и пр.) и текстовые пояснения в формате Markdown.

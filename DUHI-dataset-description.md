@@ -44,9 +44,9 @@
 
 | Город | Ссылки на данные | Временной период | Городские метеостанции* | Фоновые метеостанции*| 
 | ------------ | ------------- | ----------------| ----------------| ------------ |
-| Москва|[basic](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/datasets/DUHI/Moscow_basic.csv), [extended](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/datasets/DUHI/Moscow_extended.csv)|2012-2023|27605 (Балчуг), 27612 (ВДНХ), 27617 (МГУ), 27416 (Строгино)|27611, 27523,27417, 27428, 27511, 27625,27606,27618, 27419|
-| Санкт-Петербург|under development|||
+| Москва|[basic](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/datasets/DUHI/Moscow_basic.csv)</br> [extended](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/datasets/DUHI/Moscow_extended.csv)|2012-2023|27605 (Балчуг), 27612 (ВДНХ), 27617 (МГУ), 27416 (Строгино)|27611, 27523,27417, 27428, 27511, 27625,27606,27618, 27419|
+| Санкт-Петербург|[basic](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/datasets/DUHI/SPB_basic.csv)</br>[extended](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/datasets/DUHI/SPB_extended.csv)|2013-2023|26063|22897, 22891, 26072, 26078, 26069, 26067, 26071, 26002|
 
-*Информацию о названии и положении метеостанций можно посмотреть, например, на сайте ["Погода и климат"](http://www.pogodaiklimat.ru/archive.php)
+*Информацию о названии и положении метеостанций можно посмотреть, например, на сайте ["Погода и климат"](http://www.pogodaiklimat.ru/archive.php) или в веб-приложении [UClim](http://93.180.9.222/uclim/#/).
 
 [1] Varentsov, M.; Krinitskiy, M.; Stepanenko, V. *Machine Learning for Simulation of Urban Heat Island Dynamics Based on Large-Scale Meteorological Conditions*. Climate. **2023**, *11*, 200. https://doi.org/10.3390/cli11100200

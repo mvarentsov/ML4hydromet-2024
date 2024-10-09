@@ -1,4 +1,4 @@
-# ML4hydromet-2024
+![image](https://github.com/user-attachments/assets/d1d81129-6889-4e25-ad57-fbbd5c14d2b8)# ML4hydromet-2024
 
 Курс "Машинное обучение в гидрометеорологии" для магистров I года обучения географического факультета МГУ имени М.В. Ломоносова.   
 
@@ -11,6 +11,7 @@
 | Название | Дата | Тема | Материалы |
 | ----- | ---- | ----- | ------- |
 | Занятие №1 | 01.10.2024 | Введение |[Презентация (орг. вопросы, данные)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect01_MV.pdf) <br/>[Презентация (введение в МО)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect01_MK.pdf)<br />[Видеозапись](https://ml4es.ru/links/2024-10-01-ML4Hydromet-Lect01)|
+| Занятие №2 | 08.10.2024 | Технические средства анализа данных |[Презентация](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect02_MV.pdf)<br/>[Google colab demo](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect02_Colab_demo.ipynb)<br/>[Python demo](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect02_python_demo.ipynb)<br/>[Pandas demo](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect02_pandas_demo.ipynb)|
 
 ## Практические работы
 Все работы следует оформлять в виде файлов Jupiter Notebook, включающих исходный код, результаты (графики, таблицы и пр.) и текстовые пояснения в формате Markdown.
@@ -19,6 +20,7 @@
 | Название | Срок сдачи | Материалы |
 | ----- | ---- | ----- |
 | ДЗ №1 | 08.10.2024 | [Описание](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/homework/HW1_description.md) |
+| ДЗ №2 | 16.10.2024 | [Описание](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/homework/HW2_description.md)</br>[Пример работы с полигонами](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/HW2_gpd_demo.ipynb) |
 
 ## Готовые коллекции данных для выполнения практических работ
 

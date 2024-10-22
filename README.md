@@ -13,7 +13,7 @@
 | Занятие №1 | 01.10.2024 | Введение |[Презентация (орг. вопросы, данные)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect01_MV.pdf) <br/>[Презентация (введение в МО)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect01_MK.pdf)<br />[Видеозапись](https://ml4es.ru/links/2024-10-01-ML4Hydromet-Lect01)|
 | Занятие №2 | 08.10.2024 | Технические средства анализа данных |[Презентация](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect02_MV.pdf)<br/>[Google colab demo](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect02_Colab_demo.ipynb)<br/>[Ноутбук (Python demo)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect02_python_demo.ipynb)<br/>[Ноутбук (Pandas demo)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect02_pandas_demo.ipynb)|
 | Занятие №3 | 15.10.2024 | Разведочный анализ данных (EDA) |[Ноутбук (EDA demo)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect03_EDA_demo.ipynb)
-| Занятие №4 | 22.10.2024 | Вероятностная постановка задачи МО. <br/> Модели линейной и логистической регрессии |[Заметки с лекции]([https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect03_EDA_demo.ipynb)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect04_notes_MK.pdf)<br/>[Ноутбук (пример с синтетическими данными)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect04_LR_synthetic_data.ipynb)<br/>[Ноутбук (пример с реальными данными)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect04_LR_real_data.ipynb))
+| Занятие №4 | 22.10.2024 | Вероятностная постановка задачи МО. <br/> Модели линейной и логистической регрессии |[Заметки с лекции](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/presentations/Lect04_notes_MK.pdf)<br/>[Ноутбук (пример с синтетическими данными)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect04_LR_synthetic_data.ipynb)<br/>[Ноутбук (пример с реальными данными)](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect04_LR_real_data.ipynb))
 
 ## Практические работы
 Все работы следует оформлять в виде файлов Jupiter Notebook, включающих исходный код, результаты (графики, таблицы и пр.) и текстовые пояснения в формате Markdown.
@@ -25,7 +25,9 @@
 | ДЗ №2 | 16.10.2024 | [Описание](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/homework/HW2_description.md)</br>[Пример работы с полигонами](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/HW2_gpd_demo.ipynb) |
 | ДЗ №3 | 23.10.2024 | [Описание](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/homework/H3_description.md) |
 | ДЗ №4 | 29.10.2024 | [Описание](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/homework/HW4_description.md)</br>[Пример](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect04_LR_real_data.ipynb)|
-| ДЗ №4Б (бонусное) | 25.12.2024 | Описание: вывести функцию потерь линейной регрессии в предположении о лапласовском распределении данных|
+| ДЗ №4Б (бонусное)* | 25.12.2024 | Описание: вывести функцию потерь линейной регрессии в предположении о лапласовском распределении данных|
+
+*бонусное задание не входит в базовую формулу оценивания, но обеспечивает дополнительные бонусные баллы в случае выполнения
 
 ## Готовые коллекции данных для выполнения практических работ
 

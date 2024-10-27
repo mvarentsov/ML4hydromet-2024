@@ -9,3 +9,7 @@ ipython_config.py
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
+examples/catboost_info/catboost_training.json
+examples/catboost_info/learn_error.tsv
+examples/catboost_info/time_left.tsv
+examples/catboost_info/learn/events.out.tfevents

@@ -13,3 +13,4 @@ examples/catboost_info/catboost_training.json
 examples/catboost_info/learn_error.tsv
 examples/catboost_info/time_left.tsv
 examples/catboost_info/learn/events.out.tfevents
+animation.gif

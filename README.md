@@ -45,7 +45,7 @@
 to be continued...
 
 ## Полезные ссылки
-- [Канал StatQuest про статистику и ML на YouTube (на английском)](https://www.youtube.com/@statquest)
+- Канал StatQuest про статистику и ML (на английском): [YouTube](https://www.youtube.com/@statquest), [сайт](https://statquest.org)
 
 ## Рекомендуемая литература
 

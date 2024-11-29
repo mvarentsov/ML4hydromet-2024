@@ -31,7 +31,7 @@
 | ДЗ №4 | 29.10.2024 | [Описание](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/homework/HW4_description.md)</br>[Пример](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect04_LR_real_data.ipynb)|
 | ДЗ №4Б (бонусное)* | 25.12.2024 | Описание: вывести функцию потерь линейной регрессии в предположении о лапласовском распределении данных|
 | ДЗ №5 | 19.11.2024 | [Описание](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/homework/HW5_description.md)</br>[Пример](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect06c_CV_real_data.ipynb)|
-| ДЗ №6 | 10.12.2024 | [Описание](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/homework/HW6_description.md)</br>[Пример](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/examples/Lect06c_CV_real_data.ipynb) |
+| ДЗ №6 | 10.12.2024 | [Описание](https://github.com/mvarentsov/ML4hydromet-2024/blob/main/homework/HW6_description.md) |
 
 *бонусное задание не входит в базовую формулу оценивания, но обеспечивает дополнительные бонусные баллы в случае выполнения
 
